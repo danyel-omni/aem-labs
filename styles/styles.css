@@ -323,3 +323,14 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+/* Custom */
+
+.section.green-background {
+  background-color: #0e9f67;
+}
+
+.section.blue-background {
+  background-color: #0e9fbd;
+}
+
