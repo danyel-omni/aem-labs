@@ -1,0 +1,13 @@
+{
+  "project": "My Project EDS Docs",
+  "plugins": [
+    {
+      "id": "library",
+      "title": "Our Sidekick Library",
+      "environments": ["edit"],
+      "url": "/tools/sidekick/library.html",
+      "passConfig": true,
+      "includePaths": ["**"]
+    }
+  ]
+}
